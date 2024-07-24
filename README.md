@@ -21,7 +21,7 @@
 
 <div>
 <p></p>
-  <span> private website : 
+  <span> my website : 
   <a href="https://long-blacks.com"> https://www.long-blacks.com </a>
   </span>
 </div>
